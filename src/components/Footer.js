@@ -4,6 +4,7 @@ function Footer() {
   return (
     <footer>
       {/* Footer content goes here */}
+      <p>This is footer</p>
     </footer>
   );
 }
